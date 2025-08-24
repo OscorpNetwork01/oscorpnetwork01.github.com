@@ -3,6 +3,9 @@ on: push
 name: Build and deploy GH Pages
 jobs:
   build:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}    
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/master'
     steps:
@@ -15,3 +18,4 @@ jobs:
           PAGES_BRANCH: gh-pages
           # Publishing to the same repo, use the automatic token
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  
