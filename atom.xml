@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>AR</title>
+    <subtitle>The BugSlayer&#x27;s son</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://blog.bugslayer.ca/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://blog.bugslayer.ca"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-09-02T00:00:00+00:00</updated>
+    <id>https://blog.bugslayer.ca/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Birthday</title>
+        <published>2025-09-02T00:00:00+00:00</published>
+        <updated>2025-09-02T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Adam Rouleau
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.bugslayer.ca/birthday/"/>
+        <id>https://blog.bugslayer.ca/birthday/</id>
+        
+        <content type="html" xml:base="https://blog.bugslayer.ca/birthday/">&lt;h1 id=&quot;happy-birthday&quot;&gt;Happy Birthday !&lt;&#x2F;h1&gt;
+&lt;h3 id=&quot;you-have-officially-reached-unc-status&quot;&gt;You have officially reached unc status.&lt;&#x2F;h3&gt;
+&lt;p&gt;Happy birthday to you. You can&#x27;t escape time and he can&#x27;t escape you either.
+Here&#x27;s an important picture for your frontal lobe developpement.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;SonicImageMeme.jpeg&quot; alt=&quot;SonicMemeImage&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Adam&#x27;s Post</title>
+        <published>2025-09-01T00:00:00+00:00</published>
+        <updated>2025-09-01T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Adam Rouleau
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.bugslayer.ca/adamspost/"/>
+        <id>https://blog.bugslayer.ca/adamspost/</id>
+        
+        <content type="html" xml:base="https://blog.bugslayer.ca/adamspost/">&lt;h1 id=&quot;important-disclaimer&quot;&gt;Important Disclaimer&lt;&#x2F;h1&gt;
+&lt;p&gt;Hi ! I am NOT master of this website.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;introduction-of-the-son&quot;&gt;Introduction of the son&lt;&#x2F;h2&gt;
+&lt;p&gt;I am Adam, the son of the original BugSlayer. The absolute best programmer that has ever blessed the software engineering world.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>About</title>
+        <published>2025-08-23T00:00:00+00:00</published>
+        <updated>2025-08-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Adam Rouleau
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.bugslayer.ca/about/"/>
+        <id>https://blog.bugslayer.ca/about/</id>
+        
+        <content type="html" xml:base="https://blog.bugslayer.ca/about/">&lt;h2 id=&quot;hello-world&quot;&gt;Hello World&lt;&#x2F;h2&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>The first post</title>
+        <published>2025-08-23T00:00:00+00:00</published>
+        <updated>2025-08-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Adam Rouleau
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.bugslayer.ca/blog/20250823-first-post/"/>
+        <id>https://blog.bugslayer.ca/blog/20250823-first-post/</id>
+        
+        <content type="html" xml:base="https://blog.bugslayer.ca/blog/20250823-first-post/">&lt;h1 id=&quot;paragrap&quot;&gt;Paragrap&lt;&#x2F;h1&gt;
+&lt;p&gt;Hello! This is my first post!&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;some-subheading&quot;&gt;Some subheading&lt;&#x2F;h2&gt;
+&lt;p&gt;Let me try to show some C# code!&lt;&#x2F;p&gt;
+&lt;pre class=&quot;mermaid bg-inherit&quot;&gt;
+  sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice-&amp;gt;&amp;gt;John: Hello John, how are you?
+    loop Healthcheck
+        John-&amp;gt;&amp;gt;John: Fight against hypochondria
+    end
+    Note right of John: Rational thoughts &amp;lt;br&amp;#x2F;&amp;gt;prevail!
+    John--&amp;gt;&amp;gt;Alice: Great!
+    John-&amp;gt;&amp;gt;Bob: How about you?
+    Bob--&amp;gt;&amp;gt;John: Jolly good!
+&lt;&#x2F;pre&gt;
+&lt;pre data-lang=&quot;csharp&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-csharp &quot;&gt;&lt;code class=&quot;language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span&gt;public class HelloWorld {
+&lt;&#x2F;span&gt;&lt;span&gt;    public static void Main() {
+&lt;&#x2F;span&gt;&lt;span&gt;        Console.WriteLine(&amp;quot;Hello, world!&amp;quot;);
+&lt;&#x2F;span&gt;&lt;span&gt;    }
+&lt;&#x2F;span&gt;&lt;span&gt;}
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;How does it look?&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Not bad my man!&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Projects</title>
+        <published>2025-08-23T00:00:00+00:00</published>
+        <updated>2025-08-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Adam Rouleau
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.bugslayer.ca/projects/"/>
+        <id>https://blog.bugslayer.ca/projects/</id>
+        
+        <content type="html" xml:base="https://blog.bugslayer.ca/projects/"></content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Some post 1</title>
+        <published>2025-08-23T00:00:00+00:00</published>
+        <updated>2025-08-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Adam Rouleau
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.bugslayer.ca/somepost1/"/>
+        <id>https://blog.bugslayer.ca/somepost1/</id>
+        
+        <content type="html" xml:base="https://blog.bugslayer.ca/somepost1/">&lt;h1 id=&quot;paragrap&quot;&gt;Paragrap&lt;&#x2F;h1&gt;
+&lt;p&gt;Yep this is some post I want&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;some-subheading&quot;&gt;Some subheading&lt;&#x2F;h2&gt;
+&lt;p&gt;Let me try to show some C# code!&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;csharp&quot; style=&quot;background-color:#2b303b;color:#c0c5ce;&quot; class=&quot;language-csharp &quot;&gt;&lt;code class=&quot;language-csharp&quot; data-lang=&quot;csharp&quot;&gt;&lt;span&gt;public class HelloWorld {
+&lt;&#x2F;span&gt;&lt;span&gt;    public static void Main() {
+&lt;&#x2F;span&gt;&lt;span&gt;        Console.WriteLine(&amp;quot;Hello, world!&amp;quot;);
+&lt;&#x2F;span&gt;&lt;span&gt;    }
+&lt;&#x2F;span&gt;&lt;span&gt;}
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;How does it look?&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Not bad my man!&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;DoomDarkAges.jpg&quot; alt=&quot;Doom Dark Ages&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Some post 2</title>
+        <published>2025-08-23T00:00:00+00:00</published>
+        <updated>2025-08-23T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Adam Rouleau
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://blog.bugslayer.ca/somepost2/"/>
+        <id>https://blog.bugslayer.ca/somepost2/</id>
+        
+        <content type="html" xml:base="https://blog.bugslayer.ca/somepost2/">&lt;h1 id=&quot;post-2&quot;&gt;Post 2&lt;&#x2F;h1&gt;
+&lt;p&gt;Yep this is some post I want&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;some-subheading&quot;&gt;Some subheading&lt;&#x2F;h2&gt;
+&lt;p&gt;Let me try to show some C# code!&lt;&#x2F;p&gt;
+&lt;p&gt;How does it look?&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Not bad my man!&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;blog.bugslayer.ca&#x2F;somepost2&#x2F;SomeImage.jpg&quot; alt=&quot;SomeImage&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
